@@ -5,7 +5,7 @@
 ## 在线访问
 
 - 当前公开站点：[qihanlin-ai-portfolio.zany-cod-0020.chatgpt.site](https://qihanlin-ai-portfolio.zany-cod-0020.chatgpt.site)
-- GitHub Pages：仓库发布后启用
+- GitHub Pages：[hy123977.github.io/qihanlin-ai-portfolio](https://hy123977.github.io/qihanlin-ai-portfolio/)
 
 ## 项目内容
 
